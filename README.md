@@ -51,8 +51,11 @@ const krishna = {
   <img src="https://img.shields.io/badge/🏙️%20View%20My%20GitHub%20Skyline-121212?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  />
+  
 </p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="matrix rain gif" />
+
 
 
 
