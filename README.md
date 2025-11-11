@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner/ChatGPT Image Nov 11, 2025, 03_04_59 PM.png" alt="KR1SHNAAKHURANA Banner" width="100%">
+  <img src="banner/1762858346242.png" alt="KR1SHNAAKHURANA Banner" width="100%">
 </p>
 
 <!-- Typing SVG -->
