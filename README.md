@@ -47,10 +47,10 @@ const krishna = {
   </a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kr1shnaakhurana/kr1shnaakhurana/output/snake.svg" 
-    alt="snake animation"
+<a href="https://skyline.github.com/kr1shnaakhurana" target="_blank">
+  <img src="https://img.shields.io/badge/🏙️%20View%20My%20GitHub%20Skyline-121212?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
   />
 </p>
 
