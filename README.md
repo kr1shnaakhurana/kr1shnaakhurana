@@ -16,7 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kr1shna+Akhurana!;Full-Stack+Developer+%7C+UI+Designer+%7C+Tech+Explorer;Coding+is+my+canvas+%F0%9F%92%8E;Building+tools+that+feel+alive+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
----
 
 <table align="center">
 <tr>
@@ -51,8 +50,9 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/63/f9/8b63f9d49ce98183a8e23d4b6f0b7233.gif" width="700" alt="Matrix Animation"/>
+  <img src="banner/pixel-jeff-matrix-s.gif" width="700" alt="Matrix Animation"/>
 </div>
+
 
 ---
 <h2 align="center">🧠 Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,java,python,cpp,nodejs,express,react,mongodb,git,linux,vscode&theme=dark" /> </p>
