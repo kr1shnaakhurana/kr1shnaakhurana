@@ -1,65 +1,59 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Krishna — Profile Demo</title>
-  <style>
-    :root{
-      --bg:#0b1020; --card:#0f1724; --muted:#9aa7c7;
-    }
-    *{box-sizing:border-box;font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
-    body{margin:0; background:linear-gradient(180deg,#07102a 0%, #0b1020 100%); color:#e6eef8; display:flex; align-items:center; justify-content:center; min-height:100vh; padding:24px;}
-    .card{width:920px; max-width:100%; background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border-radius:16px; padding:28px; display:grid; grid-template-columns:120px 1fr; gap:20px; box-shadow: 0 10px 40px rgba(3,6,23,0.6);}
-    .avatar{width:120px;height:120px;border-radius:12px;background:linear-gradient(135deg,#0ea5a0,#60a5fa); display:flex;align-items:center;justify-content:center;font-weight:700;font-size:26px; color:#021126;}
-    .meta h1{margin:0;font-size:28px;}
-    .meta p{color:var(--muted); margin:6px 0 12px;}
-    .badges{display:flex; gap:8px; flex-wrap:wrap;}
-    .btn{padding:8px 12px;border-radius:8px;background:#0ea5a0;color:#021126;text-decoration:none;font-weight:600;}
-    .stats{display:flex; gap:12px; margin-top:12px;}
-    .stat{background:rgba(255,255,255,0.02); padding:10px 12px;border-radius:10px; min-width:110px; text-align:center;}
-    .muted{color:var(--muted); font-size:13px;}
-    .typing{font-weight:700; color:#a5f3fc;}
-    .controls{display:flex; gap:10px; align-items:center; margin-top:16px;}
-  </style>
-</head>
-<body>
-  <div class="card" role="region" aria-label="Profile card demo">
-    <div>
-      <div class="avatar" id="avatar">KR</div>
-    </div>
+<!-- Banner -->
+<p align="center">
+  <img src="banner/ChatGPT Image Nov 11, 2025, 03_04_59 PM.png" alt="KR1SHNAAKHURANA Banner" width="100%">
+</p>
 
-    <div class="meta">
-      <h1 id="name">Krishna <span class="muted">• Maker</span></h1>
-      <p class="muted">I build small tools, bots and weird prototypes. Focus: JavaScript, UI, automation.</p>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=console.log('Hello+World');Hi!+I'm+KR1SHNAAKHURANA;JavaScript+Developer+%7C+Open+Source+Lover;Building+cool+shit+since+forever" alt="Typing SVG">
+</p>
 
-      <div class="badges">
-        <a href="#" class="btn" id="cta">Visit portfolio</a>
-        <a href="#" class="btn" id="repo">View repos</a>
-      </div>
+---
 
-      <div class="stats">
-        <div class="stat">
-          <div class="muted">Commits</div>
-          <div id="commits" style="font-weight:800; font-size:18px;">0</div>
-        </div>
-        <div class="stat">
-          <div class="muted">Projects</div>
-          <div id="projects" style="font-weight:800; font-size:18px;">0</div>
-        </div>
-        <div class="stat">
-          <div class="muted">Followers</div>
-          <div id="followers" style="font-weight:800; font-size:18px;">0</div>
-        </div>
-      </div>
+<h2 align="center">👨‍💻 About Me</h2>
 
-      <div class="controls">
-        <div class="muted">Status:</div>
-        <div class="typing" id="status">loading...</div>
-      </div>
-    </div>
-  </div>
+```js
+const krishna = {
+  name: "KR1SHNAAKHURANA",
+  role: "Developer / Creator",
+  code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+  hobbies: ["Hacking UI", "Music", "Gaming", "AI Experiments"],
+  currentFocus: "Building dark-aesthetic dev tools ⚡",
+  motto: "while(alive) { code(); }"
+};
+```
+---
+<h2 align="center">🧠 Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,java,python,cpp,nodejs,express,react,mongodb,git,linux,vscode&theme=dark" /> </p>
 
-  <script src="script.js"></script>
-</body>
-</html>
+<h2 align="center">📈 My GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kr1shnaakhurana&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnaakhurana&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnaakhurana&bg_color=0d1117&color=00ff00&line=00ff88&point=00ff00&hide_border=true" width="95%"/> </p>
+
+<h2 align="center">🏆 Achievements</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kr1shnaakhurana&theme=matrix&margin-w=10&no-frame=true" /> </p>
+
+<h2 align="center">⚙️ Most Used Languages</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1shnaakhurana&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+<h2 align="center">🚀 Projects & Experiments</h2> <ul align="center"> <li>🧩 <b>Hexa Discord Bot</b> — Full moderation + music system with JSON stocks.</li> <li>💸 <b>Invoice Builder</b> — Python + Tkinter app for local business billing.</li> <li>💻 <b>BIN Validator</b> — Java Swing real-time BIN lookup tool.</li> <li>🎵 <b>Lyrica</b> — Aesthetic Lo-Fi Discord music bot.</li> </ul>
+
+<h2 align="center">💬 Connect With Me</h2> <p align="center"> <a href="https://github.com/kr1shnaakhurana"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/kr1shnaakhurana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/kr1shnaakhurana"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:kr1shnaakhurana@proton.me"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
+
+
+<h2 align="center">🧩 Fun Zone</h2>
+
+<p align="center">
+  <a href="https://github.com/kr1shnaakhurana">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ja526dlm5wzvtwpnstzsoadu4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" 
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/kr1shnaakhurana/kr1shnaakhurana/output/snake.svg" 
+    alt="snake animation"
+  />
+</p>
+
+
+
+<h3 align="center">⚡ "Code. Sleep. Repeat." ⚡</h3> 
