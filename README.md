@@ -10,18 +10,50 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">⚡ About Me</h2>
 
-```js
-const krishna = {
-  name: "KR1SHNAAKHURANA",
-  role: "Developer / Creator",
-  code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-  hobbies: ["Hacking UI", "Music", "Gaming", "AI Experiments"],
-  currentFocus: "Building dark-aesthetic dev tools ⚡",
-  motto: "while(alive) { code(); }"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kr1shna+Akhurana!;Full-Stack+Developer+%7C+UI+Designer+%7C+Tech+Explorer;Coding+is+my+canvas+%F0%9F%92%8E;Building+tools+that+feel+alive+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+🌱 **Currently Learning**
+- Next.js & React Animations  
+- Advanced JavaFX UI Design  
+- API Integrations + Python Automation  
+
+🧠 **Focus Zone**
+- Building aesthetic UIs with code  
+- Creating AI + automation tools  
+- Exploring system-like interfaces  
+
+</td>
+<td valign="top" width="50%">
+
+💬 **Let’s Talk About**
+- Cyber UI designs (like eDEX / Kali themes)  
+- JavaFX, Discord Bots, or Python tools  
+- Anything with Matrix vibes 🕶️  
+
+🎯 **Goals**
+- Build my own AI-powered workspace  
+- Launch aesthetic open-source tools  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8b/63/f9/8b63f9d49ce98183a8e23d4b6f0b7233.gif" width="700" alt="Matrix Animation"/>
+</div>
+
 ---
 <h2 align="center">🧠 Tech Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,java,python,cpp,nodejs,express,react,mongodb,git,linux,vscode&theme=dark" /> </p>
 
